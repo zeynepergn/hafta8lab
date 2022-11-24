@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author zeyne
+ *
+ */
+module Animal {
+}
